@@ -1,6 +1,5 @@
 # Akash Samanta
 
-## Angular Developer
 
 <img src="https://img.shields.io/badge/Java-%3C%2F%3E-blue" alt="Java Logo" /> <img src="https://img.shields.io/badge/SpringBoot-%3C%2F%3E-green" alt="SpringBoot Logo" /> <img src="https://img.shields.io/badge/MySQL-%3C%2F%3E-blue" alt="MySQL Logo" /> <img src="https://img.shields.io/badge/SpringSecurity-%3C%2F%3E-orange" alt="SpringSecurity Logo" /> <img src="https://img.shields.io/badge/SwaggerUI-%3C%2F%3E-green" alt="SwaggerUI Logo" /> <img src="https://img.shields.io/badge/AWS-%3C%2F%3E-yellow" alt="AWS Logo" />
 
